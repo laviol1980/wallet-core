@@ -14,7 +14,7 @@
 
 namespace TW::Cosmos {
 
-class Address {
+class Address {0xDECAF9CD2367cdbb726E904cD6397eDFcAe6068D
   public:
     /// Human-readable part.
     ///
